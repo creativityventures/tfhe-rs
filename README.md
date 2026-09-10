@@ -1,3 +1,7 @@
+## Parcours francais
+
+Guide FHE defensif dans docs/fr/README.md.
+
 <p align="center">
 <!-- product name logo -->
 <picture>
